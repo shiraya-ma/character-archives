@@ -14,7 +14,11 @@
 ## キャラクター
 
 ### 白山舞依
-<image src="/images/20231218_mai.png" alt="白山舞依のアイコン" width=200/>
+<div style="display:flex; gap: 1rem; background-color:var(--bgColor-default);">
+    <image src="/images/20231218_mai.png" alt="白山舞依のアイコン" width=200/>
+
+    test text
+</div>
 
 ### 黒田美穂
 <image src="/images/20240424_miho.png" alt="黒田美穂のアイコン" width=200/>
