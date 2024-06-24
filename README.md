@@ -14,8 +14,10 @@ This is a repository for the Character Archive project.
 ## Traits
 
 ### Mai Shirayama
+<image src="/images/20231218_mai.png" alt="mai`s icon" width=200/>
 
 ### Miho Kuroda
+<image src="/images/20240424_miho.png" alt="miho`s icon" width=200/>
 
 ## Contributing
 
